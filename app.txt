@@ -1,1 +1,4 @@
 version 1
+payment development 
+pay dev 1
+Bad configuration
