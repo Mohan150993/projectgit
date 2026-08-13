@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 this is git lab 
 Hi i am from amazon linux 
